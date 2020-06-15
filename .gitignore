@@ -1,0 +1,19 @@
+### Intellij ###
+.idea/*
+classes/*
+out/
+*.iml
+
+### Eclipse ###
+.project
+**/.settings/*
+.classpath
+**/bin/
+
+
+### Gradle ###
+.gradle
+build/
+
+### Generated classes ###
+**/src/generated/**
